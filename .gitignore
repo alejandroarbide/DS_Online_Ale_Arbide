@@ -9,6 +9,7 @@ credentials*
 */.ipynb_checkpoints/*
 */__pycache__/*
 .DS_Store
+entorno-alejandro/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
