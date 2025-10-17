@@ -9,7 +9,9 @@ credentials*
 */.ipynb_checkpoints/*
 */__pycache__/*
 .DS_Store
-entorno-alejandro/
+**/00_Ejercicios_Warmup/
+**/01_Workout/
+**/02_Ejercicios_Workout/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
